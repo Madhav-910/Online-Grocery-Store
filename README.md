@@ -132,12 +132,12 @@ In `GroceryStoreApp.java`, update the database credentials if needed:
 ```java
 dbConnection = new DatabaseConnection(
     "jdbc:mysql://localhost:3306/urbanfresh",
-    "root",
-    "root"
+    "****",
+    "****"
 );
 ```
 
-Change `root` and `root` according to your MySQL username and password.
+Change `****` and `****` according to your MySQL username and password.
 
 ### 4. Run the Application
 
