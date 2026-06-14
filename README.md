@@ -3,8 +3,6 @@
 
 
 
-\
-
 **UrbanFresh is a JavaFX-based grocery shopping application that allows users to register, log in, browse grocery products, add items to a cart, and place orders through a simple desktop interface.**
 
 The project demonstrates the core workflow of an online grocery system using Java, JavaFX, JDBC, and MySQL.
